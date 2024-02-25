@@ -1,4 +1,3 @@
-# after the cloning 
 
 # For running the front-end 
 
